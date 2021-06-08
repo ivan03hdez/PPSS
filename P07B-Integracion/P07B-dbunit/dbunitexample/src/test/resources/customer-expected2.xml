@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <customer id="1"
+              firstname="John"
+              lastname="Smith"
+              street="Other Street"
+              city="NewCity" />
+</dataset>
+
